@@ -3,6 +3,7 @@ body{
     font-family: 'Poppins', sans-serif;
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
+    margin: 0;
 }
 h1{
     font-size: 50px;
@@ -42,6 +43,7 @@ h2{
     background-image: url(dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+
 }
 .shadow{
         box-shadow: 10px 10px 40px gold;
