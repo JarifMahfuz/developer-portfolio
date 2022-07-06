@@ -9,6 +9,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .orange{
     color: rgb(168, 48, 204);
@@ -29,4 +30,12 @@ section{
     border-radius: 10px;
     padding: 10px 40px;
 
+}
+.h1{
+    color: chocolate;
+}
+.dream-big{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
