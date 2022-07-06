@@ -5,3 +5,26 @@ body{
 h1{
     font-size: 50px;
 }
+section{
+    display: flex;
+}
+.orange{
+    color: rgb(168, 48, 204);
+}
+.half-widht{
+    width: 100%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 20%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(green, gold);
+    color: aliceblue;
+    font-weight: 700;
+    padding: 15px;
+    border-radius: 10px;
+    padding: 10px 40px;
+
+}
