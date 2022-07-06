@@ -7,6 +7,10 @@ body{
 h1{
     font-size: 50px;
 }
+
+h2{
+    font-size: 30px;
+}
 .flexible{
     display: flex;
     margin-bottom: 150px;
@@ -39,6 +43,17 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
-.flexible{
+.shadow{
+        box-shadow: 10px 10px 40px gold;
+        width: 40%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-left: 20px;
+        padding-right: 20px;
 
+}
+.experiences{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
